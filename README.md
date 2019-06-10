@@ -1,2 +1,2 @@
 # study
-study Github
+study how to use Github
